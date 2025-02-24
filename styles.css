@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
 div{
 	background-color:green;
-	
+	grid-column:span 2 / auto;
 }
 
 #grid{
