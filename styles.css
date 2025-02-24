@@ -5,7 +5,7 @@ div{
 }
 
 body#grid{
-	grid-template-rows:124px 124px 124px 124px 124px;
+	grid-template-rows:124px 124px 124px 124px 124px 18px 18px 18px;
 	
 }
 
