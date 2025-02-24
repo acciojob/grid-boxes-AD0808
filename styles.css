@@ -4,6 +4,11 @@ div{
 	grid-column:span 2 / auto;
 }
 
+body#grid{
+	grid-template-rows:124px 124px 124px 124px 124px;
+	
+}
+
 #grid{
 	display:grid;
 	grid-template-rows:124px 124px 124px 124px 124px;
